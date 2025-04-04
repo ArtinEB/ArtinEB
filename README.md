@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PRSTG.net<br>🌱 I’m currently learning next.js
+🔭 CCO at PRSTG.net <br>🌱 Currently working on PRSTG.net & accepting website, application, script, automation commisions
 
 
 ## 🌐 Socials:
